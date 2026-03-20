@@ -1,0 +1,3 @@
+display_name: Doc Writer
+short_description: Write algorithm technical reports
+default_prompt: Help me write a technical report for algorithm design
